@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:wheat_seeds": 57,
+      "minecraft:bone_meal": 4
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 181,
+      "minecraft:tall_grass": 13,
+      "minecraft:bush": 10
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6734,
+      "minecraft:walk_one_cm": 46965,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 6734,
+      "minecraft:damage_dealt": 18,
+      "minecraft:jump": 86,
+      "minecraft:time_since_death": 6734,
+      "minecraft:drop": 7,
+      "minecraft:interact_with_cartography_table": 1,
+      "minecraft:sprint_one_cm": 20540,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 1875,
+      "minecraft:total_world_time": 6734,
+      "minecraft:fly_one_cm": 1108,
+      "minecraft:climb_one_cm": 424
+    },
+    "minecraft:used": {
+      "minecraft:wheat_seeds": 9
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 48,
+      "minecraft:bone_meal": 4
+    }
+  },
+  "DataVersion": 4671
+}
