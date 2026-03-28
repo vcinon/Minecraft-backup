@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2026-03-28 14:54:30 +0000",
       "minecraft:snowy_slopes": "2026-03-25 14:31:24 +0000",
       "minecraft:beach": "2026-03-22 19:32:29 +0000",
       "minecraft:forest": "2026-03-22 19:32:04 +0000",
