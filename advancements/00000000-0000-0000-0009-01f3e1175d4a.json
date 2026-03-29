@@ -1765,73 +1765,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2026-03-25 17:55:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2026-03-25 18:00:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-03-25 17:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2026-03-25 17:23:18 +0000"
     },
@@ -1843,87 +1783,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2026-03-25 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_dandelion": {
     "criteria": {
       "has_dandelion": "2026-03-25 17:28:45 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2026-03-25 18:31:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2026-03-25 17:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-03-25 18:22:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
       "has_cornflower": "2026-03-25 17:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2026-03-25 17:23:18 +0000"
     },
     "done": true
   },
@@ -1945,15 +1813,147 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2026-03-25 17:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2026-03-25 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-03-25 17:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2026-03-25 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2026-03-25 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-25 18:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2026-03-25 18:22:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_bamboo": "2026-03-25 17:46:13 +0000"
+      "lava_bucket": "2026-03-25 18:31:38 +0000"
     },
     "done": true
   },

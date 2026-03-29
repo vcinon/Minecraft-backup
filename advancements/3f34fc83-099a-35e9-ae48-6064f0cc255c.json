@@ -12,6 +12,7 @@
       "minecraft:taiga": "2026-03-18 21:51:55 +0000",
       "minecraft:deep_dark": "2026-03-18 23:31:33 +0000",
       "minecraft:cherry_grove": "2026-03-22 22:45:04 +0000",
+      "minecraft:sunflower_plains": "2026-03-29 13:04:13 +0000",
       "minecraft:river": "2026-03-18 21:34:59 +0000",
       "minecraft:grove": "2026-03-18 22:53:53 +0000",
       "minecraft:meadow": "2026-03-18 22:50:46 +0000",
@@ -3295,6 +3296,48 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2026-03-29 11:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:43:03 +0000"
     },
     "done": true
   },
