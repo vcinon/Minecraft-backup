@@ -2069,21 +2069,47 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+      "entered_nether": "2026-03-29 13:32:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_magma_cream": "2026-03-29 13:47:03 +0000"
+      "entered_nether": "2026-03-29 13:32:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+      "minecraft:crimson_forest": "2026-03-29 13:32:25 +0000",
+      "minecraft:nether_wastes": "2026-03-29 13:41:47 +0000",
+      "minecraft:soul_sand_valley": "2026-03-29 13:41:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-03-29 13:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-03-29 13:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-03-29 13:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-03-29 13:34:19 +0000"
     },
     "done": true
   },
@@ -2096,20 +2122,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2026-03-29 13:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2026-03-29 13:32:25 +0000",
-      "minecraft:nether_wastes": "2026-03-29 13:41:47 +0000",
-      "minecraft:soul_sand_valley": "2026-03-29 13:41:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2026-03-29 13:38:19 +0000"
     },
     "done": true
   },
@@ -2131,51 +2143,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2026-03-29 13:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2026-03-29 13:33:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2026-03-29 13:37:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2026-03-29 13:38:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2026-03-29 13:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2026-03-29 13:34:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2026-03-29 13:33:56 +0000"
     },
     "done": true
   },
@@ -2191,15 +2167,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
-      "has_soul_sand": "2026-03-29 13:47:20 +0000"
+      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "minecraft:recipes/combat/golden_sword": {
     "criteria": {
-      "has_bone_block": "2026-03-29 13:46:47 +0000"
+      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2026-03-29 13:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2026-03-29 13:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-03-29 13:44:55 +0000"
     },
     "done": true
   },
@@ -2212,18 +2260,6 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2026-03-29 13:45:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
     },
     "done": true
   },
@@ -2251,21 +2287,21 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "lava_bucket": "2026-03-29 13:34:19 +0000"
+      "has_bone_block": "2026-03-29 13:46:47 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "entered_nether": "2026-03-29 13:32:24 +0000"
+      "has_magma_cream": "2026-03-29 13:47:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2026-03-29 13:44:55 +0000"
+      "has_soul_sand": "2026-03-29 13:47:20 +0000"
     },
     "done": true
   },
@@ -2275,39 +2311,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
+      "blaze_rod": "2026-03-30 17:46:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
+      "has_blaze_rod": "2026-03-30 17:46:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gold_block": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-03-29 13:44:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2026-03-29 13:37:57 +0000"
+      "has_blaze_rod": "2026-03-30 17:46:44 +0000"
     },
     "done": true
   },
