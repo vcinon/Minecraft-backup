@@ -510,10 +510,12 @@
       "minecraft:pillager": "2026-03-22 19:34:25 +0000",
       "minecraft:cave_spider": "2026-03-26 16:21:47 +0000",
       "minecraft:skeleton": "2026-03-22 20:19:37 +0000",
+      "minecraft:piglin": "2026-03-30 18:15:36 +0000",
       "minecraft:magma_cube": "2026-03-29 14:07:43 +0000",
       "minecraft:spider": "2026-03-27 17:35:08 +0000",
       "minecraft:zombie": "2026-03-22 20:33:15 +0000",
-      "minecraft:creeper": "2026-03-26 15:39:52 +0000"
+      "minecraft:creeper": "2026-03-26 15:39:52 +0000",
+      "minecraft:hoglin": "2026-03-30 18:13:50 +0000"
     },
     "done": false
   },
@@ -2308,6 +2310,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2026-03-29 13:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-03-30 17:56:19 +0000"
     },
     "done": true
   },
